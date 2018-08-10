@@ -2,7 +2,7 @@
 Rasterio
 ========
 
-Rasterio reads and writes geospatial raster data.
+RasterIO reads and writes geospatial raster data.
 
 .. image:: https://travis-ci.org/mapbox/rasterio.png?branch=master
    :target: https://travis-ci.org/mapbox/rasterio
